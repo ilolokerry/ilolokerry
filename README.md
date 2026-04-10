@@ -6,7 +6,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>SOC Alert Incident Reports (Daily Analysis Series)</b>
-  - <a href="#">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
+  - <a href="https://github.com/ilolokerry/soc-alert-incident-reports">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
 
 - <b>Malware Analysis Lab</b>
   - <a href="#">Static & Dynamic Malware Analysis</a>
