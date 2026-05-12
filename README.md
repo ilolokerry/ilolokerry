@@ -28,10 +28,10 @@
 
 <h2>📚 Certifications:</h2>
 
-- CompTIA Security+  
+- CompTIA Security+
+- CompTIA CySA+ 
 - Google Cybersecurity Certificate  
-- LetsDefend SOC Analyst Learning Path  
-- CompTIA CySA+ (In Progress)  
+- LetsDefend SOC Analyst Learning Path   
 
 <h2> 🤳 Connect with me:</h2>
 
