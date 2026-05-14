@@ -9,7 +9,7 @@
   - <a href="https://github.com/ilolokerry/soc-alert-incident-reports">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
 
 - <b>Endpoint Monitoring & Threat Detection Lab with Wazuh </b>
-  - <a href="#">Home lab scenarios and detections</a>
+  - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
 
 - <b>Azure Honeypot Lab</b>
   - <a href="#">Cloud Honeypot & Threat Monitoring</a>
