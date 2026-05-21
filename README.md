@@ -11,7 +11,7 @@
 - <b>Endpoint Monitoring & Threat Detection Lab with Wazuh </b>
   - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
 
-- <b>Network Traffic Analysis Lab</b>
+- <b>Network Traffic Analysis & Threat Investigation Lab</b>
   - <a href="#">network forensics and SOC monitoring workflows</a>
 
 - <b>Azure Honeypot Lab</b>
