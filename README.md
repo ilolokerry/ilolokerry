@@ -7,15 +7,15 @@
 
 - <b>SOC Alert Incident Reports (Daily Analysis Series)</b>
   - <a href="https://github.com/ilolokerry/soc-alert-incident-reports">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
-
+  
+- <b>Hack the box Labs - Soc analyst path</b>
+  - <a href="#">Completed hands-on training in security operations, digital forensics, and threat hunting</a>
+  
 - <b>Endpoint Monitoring & Threat Detection Lab with Wazuh </b>
   - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
 
 - <b>Network Traffic Analysis & Threat Investigation Lab</b>
   - <a href="https://github.com/ilolokerry/Network-Traffic-Analysis-Threat-Investigation-Lab/tree/main">network forensics and SOC monitoring workflows</a>
-
-- <b>Azure Honeypot Lab</b>
-  - <a href="#">Cloud Honeypot & Threat Monitoring</a>
 
 <h2>🧠 Skills:</h2>
 
