@@ -15,7 +15,7 @@
   - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
 
 - <b>Network Traffic Analysis & Threat Investigation Lab</b>
-  - <a href="https://github.com/ilolokerry/Network-Traffic-Analysis-Threat-Investigation-Lab/tree/main">network forensics and SOC monitoring workflows</a>
+  - <a href="https://github.com/ilolokerry/Network-Traffic-Analysis-Threat-Investigation-Lab/tree/main">Network forensics and SOC monitoring workflows</a>
 
 <h2>🧠 Skills:</h2>
 
