@@ -9,7 +9,7 @@
   - <a href="https://github.com/ilolokerry/soc-alert-incident-reports">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
   
 - <b>Hack the box Labs - Soc analyst path</b>
-  - <a href="#">Completed hands-on training in security operations, digital forensics, and threat hunting</a>
+  - <a href="https://github.com/ilolokerry/Hack-the-box-Labs">Completed hands-on training in security operations, digital forensics, and threat hunting</a>
   
 - <b>Endpoint Monitoring & Threat Detection Lab with Wazuh </b>
   - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
