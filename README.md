@@ -12,7 +12,7 @@
   - <a href="https://github.com/ilolokerry/Hack-the-box-Labs">Completed hands-on training in security operations, digital forensics, and threat hunting</a>
 
 - <b>Threat hunting  with KQL </b>
-  - <a href="#">Completed threat hunting scenarios on kc7</a>
+  - <a href="https://github.com/ilolokerry/Threat-hunting-with-KQL">Completed threat hunting scenarios on kc7</a>
   
 - <b>Endpoint Monitoring & Threat Detection Lab with Wazuh </b>
   - <a href="https://github.com/ilolokerry/Endpoint-Monitoring-Threat-Detection-Lab-with-Wazuh">Home lab scenarios and detections</a>
