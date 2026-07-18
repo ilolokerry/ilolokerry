@@ -9,7 +9,7 @@
   - <a href="https://github.com/ilolokerry/soc-alert-incident-reports">Collection of daily SOC alert investigations, including threat analysis, findings, and remediation actions</a>
 
 - <b>Azure Cloud SOC — Microsoft Sentinel & Defender XDR</b>
-  - <a href="#">Cloud SOC workflow in Microsoft Sentinel and Defender XDR — deployment, KQL-based detection, and end-to-end incident investigation across incident scenarios</a>
+  - <a href="https://github.com/ilolokerry/Azure-Cloud-SOC-Microsoft-Sentinel-Defender-XDR-">Cloud SOC workflow in Microsoft Sentinel and Defender XDR — deployment, KQL-based detection, and end-to-end incident investigation across incident scenarios</a>
 
 - <b>Threat Hunting Lab — Splunk</b>
   - <a href="https://github.com/ilolokerry/Threat-Hunting-Lab-Splunk/blob/main/README.md">SPL-based threat hunt tracing an attack chain across execution, persistence, defense evasion, C2, and lateral movement, mapped to MITRE ATT&CK</a>
